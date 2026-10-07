@@ -37,7 +37,7 @@
 
 | 자격증 | 상태 |
 |---|---|
-| CSTS | 취득 |
+| SW테스트전문가(CSTS) | 취득(2025.05.10) |
 | AWS Certified AI Practitioner (AIF-C01) | 학습 중 |
 | AWS Certified Cloud Practitioner (CLF-C02) | 학습 중 |
 | AWS Certified Solutions Architect – Associate (SAA-C03) | 학습 중 |
