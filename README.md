@@ -13,7 +13,7 @@
 
 | 프로젝트 | 한 줄 요약 | 내 역할 | 핵심 기술 |
 |---|---|---|---|
-| [DevFlow](https://github.com/Team-likelion-2nd-Project/likelion-devops-7th-team02) | 프로젝트·업무 관리 + DevOps 통합 시스템 (부트캠프, 2026) | 팀장 · Backend 전담 (JWT 인증/인가, 권한 검증, K8s Probe·Metrics 엔드포인트) | Spring Boot, Spring Security, JPA, PostgreSQL, Docker |
+| [DevFlow](https://github.com/Team-likelion-2nd-Project/likelion-devops-7th-team02) → [3차 고도화](https://github.com/Team-likelion-3rd-Project/likelion-devops-7th-3rd-team02) | 프로젝트·업무 관리 + DevOps 통합 시스템 (부트캠프 2차 2026.08, 3차 2026.10~11 기획 단계) | 팀장 · Backend 전담 (JWT 인증/인가, 권한 검증, K8s Probe·Metrics 엔드포인트), 인프라 담당과 배포 환경 협업 | Spring Boot, Spring Security, JPA, PostgreSQL, Docker |
 | [hearing-assistant](https://github.com/alberione1110/hearing-assistant) · [AI 서버](https://github.com/alberione1110/deafassist_ai_server) | 소리 종류·방향을 실시간으로 알려주는 청각장애인 보조 시스템 (심화 캡스톤, 2026) | 팀장 · 서버 구조 설계 · 배포 · 엣지 AI 서버 | FastAPI, PostgreSQL, Docker Compose, WebSocket, Raspberry Pi |
 | [KSEB_Proj](https://github.com/alberione1110/KSEB_Proj) | 서울 상권 데이터 기반 창업 업종·입지 추천 웹 (교내 부트캠프, 2025) | 팀장 · 풀스택 (Frontend + Backend) | React, Flask, MySQL, ECharts |
 | [VisGAP](https://github.com/alberione1110/VisGAP) | YOLOv8 기반 스마트폰 카메라 부품 간격 자동 측정 (기업 연계 캡스톤, 2025) | 팀장 · AI (데이터셋 구축, 모델 학습, 추론 서버) | YOLOv8, OpenCV, FastAPI, React |
