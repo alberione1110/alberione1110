@@ -17,6 +17,7 @@
 | [hearing-assistant](https://github.com/alberione1110/hearing-assistant) · [AI 서버](https://github.com/alberione1110/deafassist_ai_server) | 소리 종류·방향을 실시간으로 알려주는 청각장애인 보조 시스템 (심화 캡스톤, 2026) | 팀장 · 서버 구조 설계 · 배포 · 엣지 AI 서버 | FastAPI, PostgreSQL, Docker Compose, WebSocket, Raspberry Pi |
 | [KSEB_Proj](https://github.com/alberione1110/KSEB_Proj) | 서울 상권 데이터 기반 창업 업종·입지 추천 웹 (교내 부트캠프, 2025) | 팀장 · 풀스택 (Frontend + Backend) | React, Flask, MySQL, ECharts |
 | [VisGAP](https://github.com/alberione1110/VisGAP) | YOLOv8 기반 스마트폰 카메라 부품 간격 자동 측정 (기업 연계 캡스톤, 2025) | 팀장 · AI (데이터셋 구축, 모델 학습, 추론 서버) | YOLOv8, OpenCV, FastAPI, React |
+| [portfolio](https://github.com/alberione1110/portfolio) | 포트폴리오 사이트와 AWS 배포 인프라 ([seokhyeonkim.com](https://seokhyeonkim.com), 개인, 2026) | 설계·구축 전체 (Terraform IaC, OIDC 기반 자동 배포) | S3, CloudFront, Route 53, Terraform, GitHub Actions |
 
 ---
 
@@ -25,7 +26,8 @@
 | 구분 | 기술 |
 |---|---|
 | **주로 사용** | Python (FastAPI, Flask) · Java (Spring Boot, Spring Security, JPA) · JavaScript (React) · PostgreSQL · MySQL · Docker / Docker Compose · PyTorch · Git |
-| **학습 중** | AWS · Terraform · Kubernetes · GitHub Actions |
+| **직접 구축** | AWS (S3, CloudFront, Route 53, ACM, IAM) · Terraform · GitHub Actions (OIDC 배포) |
+| **학습 중** | Kubernetes · AWS 자격증 |
 
 ---
 
@@ -47,3 +49,4 @@
 ### Contact
 
 - Email: albe38488171@gmail.com
+- Portfolio: https://seokhyeonkim.com
